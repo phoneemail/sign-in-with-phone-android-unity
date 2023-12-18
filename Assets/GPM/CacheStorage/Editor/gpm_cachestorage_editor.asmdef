@@ -1,0 +1,18 @@
+{
+    "name": "gpm_cachestorage_editor",
+    "references": [
+        "GUID:f35024e18ccf59c4681527787a971c57",
+        "GUID:860fc5dbd50ac3c41976228cab5e5c3b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

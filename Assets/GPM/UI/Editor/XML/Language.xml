@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<multilanguage>
+  <default>
+    <language>en</language>
+  </default>
+  <list>
+    
+    <string>
+      <key>KEY_CHANGE_LANGUAGE_ERROR_MESSAGE</key>
+      <language>
+        <ko>언어를 변경하지 못했습니다.</ko>
+        <en>Failed to change language.</en>
+      </language>
+    </string>
+    
+    <string>
+        <key>KEY_OK</key>
+        <language>
+          <ko>확인</ko>
+          <en>Ok</en>
+        </language>
+    </string>
+
+    <string>
+        <key>KEY_CANCEL</key>
+        <language>
+          <ko>취소</ko>
+          <en>Cancel</en>
+        </language>
+    </string>
+
+    <string>
+      <key>KEY_YES</key>
+      <language>
+        <ko>예</ko>
+        <en>Yes</en>
+      </language>
+    </string>
+
+    <string>
+      <key>KEY_NO</key>
+      <language>
+        <ko>아니오</ko>
+        <en>No</en>
+      </language>
+    </string>
+    
+    <string>
+      <key>KEY_TAB_ERROR_MESSAGE</key>
+      <language>
+        <ko>tab 에러</ko>
+        <en>tab Error</en>
+      </language>
+    </string>
+
+    <string>
+      <key>KEY_CONTROL_ADDTAB_ONLYONE_MESSAGE</key>
+      <language>
+        <ko>이미 추가되어 있습니다.</ko>
+        <en>Already added.</en>
+      </language>
+    </string>
+
+    <string>
+      <key>KEY_CONTROL_ADDTAB_CHECK_MESSAGE</key>
+      <language>
+        <ko>다른데 연결된 탭입니다. 기존 연결을 제거하고 추가하시겠습니까?</ko>
+        <en>This is a linked tab. Are you sure you want to remove and replace the existing connection?</en>
+      </language>
+    </string>
+
+    <string>
+      <key>KEY_TAB_RELEASE_CONTROL_CHECK_MESSAGE</key>
+      <language>
+        <ko>연결된 탭입니다. 기존 연결을 제거하시겠습니까?</ko>
+        <en>This is a linked tap. Are you sure you want to disconnect?</en>
+      </language>
+    </string>
+
+    <string>
+      <key>KEY_TAB_CHANGE_CONTROL_CHECK_MESSAGE</key>
+      <language>
+        <ko>연결된 탭입니다. 기존 연결을 제거해주세요?</ko>
+        <en>This is a linked tab. Are you sure you want to remove and replace the existing connection?</en>
+      </language>
+    </string>
+
+  </list>
+</multilanguage>

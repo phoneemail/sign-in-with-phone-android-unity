@@ -1,0 +1,15 @@
+{
+    "name": "gpm_ui",
+    "references": [
+        "gpm_common",
+        "gpm_cachestorage"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
